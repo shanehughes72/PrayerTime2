@@ -77,11 +77,8 @@
 		0258BB971AD8092A00E3B772 /* PrayerTime2 */ = {
 			isa = PBXGroup;
 			children = (
-				0258BB9A1AD8092A00E3B772 /* AppDelegate.swift */,
 				0258BB9C1AD8092A00E3B772 /* ViewController.swift */,
 				0258BB9E1AD8092A00E3B772 /* Main.storyboard */,
-				0258BBA11AD8092A00E3B772 /* Images.xcassets */,
-				0258BBA31AD8092A00E3B772 /* LaunchScreen.xib */,
 				0258BB981AD8092A00E3B772 /* Supporting Files */,
 			);
 			path = PrayerTime2;
@@ -90,6 +87,9 @@
 		0258BB981AD8092A00E3B772 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0258BBA31AD8092A00E3B772 /* LaunchScreen.xib */,
+				0258BBA11AD8092A00E3B772 /* Images.xcassets */,
+				0258BB9A1AD8092A00E3B772 /* AppDelegate.swift */,
 				0258BB991AD8092A00E3B772 /* Info.plist */,
 			);
 			name = "Supporting Files";
