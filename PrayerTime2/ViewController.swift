@@ -14,7 +14,7 @@ class ViewController: UIViewController {
 
     @IBAction func iClicked(sender: UIButton) {
         
-        println("I clicked again")
+        println("I clicked again yo")
     }
 
 }
